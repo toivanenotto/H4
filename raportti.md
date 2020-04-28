@@ -76,6 +76,8 @@ https://itsfoss.com/sayonara-music-player/
 
 https://gist.github.com/garbast/ff5e36d55c11c7558a3b
 
+https://github.com/sampohautala/salt/tree/master/php
+
 https://github.com/mantop/salt/tree/master/ssh
 
 https://github.com/rabits/salt-stack-modules/tree/master/vim
