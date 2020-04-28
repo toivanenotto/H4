@@ -64,7 +64,7 @@ SSH-modulin LINKKI
 
 UFW LINKKI
 
-
+![ufw-test](/h4images/ufw-test.png)
 
 
 
