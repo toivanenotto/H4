@@ -48,21 +48,23 @@ Jonka jälkeen testaus
 
 # Muut ohjelmat
 
-Asensin PHP-modulin LINKKI
+Asensin koneelle muiden tekemiä moduleja:
+
+PHP-moduli https://github.com/sampohautala/salt/tree/master/php
 
 ![php-apply](/h4images/php-apply.png)
 
-VIM-modulin LINKKI
+VIM-moduli https://github.com/rabits/salt-stack-modules/tree/master/vim
 
 ![vim-test](/h4images/vim-test.png)
 
-SSH-modulin LINKKI
+SSH-moduli https://github.com/mantop/salt/tree/master/ssh
 
 ![ssh-apply](/h4images/ssh-apply.png)
 
 ![ssh-testi](/h4images/ssh-testi.png)
 
-UFW LINKKI
+UFW https://github.com/sampohautala/salt/tree/master/ufw
 
 ![ufw-test](/h4images/ufw-test.png)
 
@@ -72,3 +74,5 @@ UFW LINKKI
 
 https://itsfoss.com/sayonara-music-player/
 https://gist.github.com/garbast/ff5e36d55c11c7558a3b
+https://github.com/mantop/salt/tree/master/ssh
+https://github.com/rabits/salt-stack-modules/tree/master/vim
