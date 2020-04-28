@@ -14,6 +14,8 @@ Ajattelin asentaa koneelleni aluksi Sayonara-musiikkiohjelman. Loin /srv/salt/ -
 
 Tiedostoa varten löysin tämän ohjeen https://docs.saltstack.com/en/latest/ref/states/all/salt.states.pkgrepo.html
 
+HUOM. uptodate-kohta on tärkeä, jotta sudo apt-get update suoritetaan ja asennuspaketti löytyy
+
 ![sayonara-init](/h4images/sayonara-init.png)
 
 Ja ajoin tilan komennolla
