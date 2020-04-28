@@ -4,6 +4,8 @@
 
 Aloitin harjoituksen tekemällä githubiin repositorion "H4" ja kloonamalla sen koneelle. Siirryin kansioon ja aloin tekemään tätä raporttia.
 
+#Sayonara
+
 Ajattelin asentaa koneelleni aluksi Sayonara-musiikkiohjelman. Loin /srv/salt/ -kansioon uuden kansion ja sinne init.sls-tiedoston.
 
 > sudo mkdir sayonara
@@ -17,4 +19,24 @@ Ja ajoin tilan komennolla
 
 ![sayonara-apply](/h4images/sayonara-apply.png)
 
+Moduulin tekemiseen hyödynsin tätä lähdettä (lisää linkki)
+
+#Steam
+
+Seuraavaksi päätin asentaa Steamin
+
+Eli aloitin samoilla luomalla alkuun kansion ja init.sls-tiedoston
+
+> sudo mkdir steam
+> sudoedit init.sls
+
+Kyseistä tiedostoa varten googlailin Steamin asennusta ja löysin tämän ohjeen LISÄÄ LINKKI
+
+![steam-init](/h4images/steam-init.png)
+
+Ja tilan ajaminen
+
+> sudo salt '*' state.apply steam
+
+![steam-apply](/h4images/steam-apply.png)
 
