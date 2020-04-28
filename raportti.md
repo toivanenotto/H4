@@ -11,6 +11,8 @@ Ajattelin asentaa koneelleni aluksi Sayonara-musiikkiohjelman. Loin /srv/salt/ -
 > sudo mkdir sayonara
 > sudoedit init.sls
 
+Tiedostoa varten löysin tämän ohjeen https://docs.saltstack.com/en/latest/ref/states/all/salt.states.pkgrepo.html
+
 ![sayonara-init](/h4images/sayonara-init.png)
 
 Ja ajoin tilan komennolla
@@ -18,8 +20,6 @@ Ja ajoin tilan komennolla
 > sudo salt '*' state.apply sayonara
 
 ![sayonara-apply](/h4images/sayonara-apply.png)
-
-Moduulin tekemiseen hyödynsin tätä lähdettä (lisää linkki)
 
 # Steam
 
@@ -30,7 +30,7 @@ Eli aloitin samoilla luomalla alkuun kansion ja init.sls-tiedoston
 > sudo mkdir steam
 > sudoedit init.sls
 
-Kyseistä tiedostoa varten googlailin Steamin asennusta ja löysin tämän ohjeen LISÄÄ LINKKI
+Kyseistä tiedostoa varten googlailin Steamin asennusta ja löysin tämän ohjeen https://gist.github.com/garbast/ff5e36d55c11c7558a3b
 
 ![steam-init](/h4images/steam-init.png)
 
@@ -40,3 +40,8 @@ Ja tilan ajaminen
 
 ![steam-apply](/h4images/steam-apply.png)
 
+
+# Lähteet
+
+https://itsfoss.com/sayonara-music-player/
+https://gist.github.com/garbast/ff5e36d55c11c7558a3b
