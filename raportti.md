@@ -9,12 +9,12 @@ Ajattelin asentaa koneelleni aluksi Sayonara-musiikkiohjelman. Loin /srv/salt/ -
 > sudo mkdir sayonara
 > sudoedit init.sls
 
-![sayonara-init](/H4images/sayonara-init.png)
+![sayonara-init](/h4images/sayonara-init.png)
 
 Ja ajoin tilan komennolla
 
 > sudo salt '*' state.apply sayonara
 
-![sayonara-apply](/H4images/sayonara-apply.png)
+![sayonara-apply](/h4images/sayonara-apply.png)
 
 
