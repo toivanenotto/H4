@@ -9,6 +9,7 @@ Aloitin harjoituksen tekemällä githubiin repositorion "H4" ja kloonamalla sen 
 Ajattelin asentaa koneelleni aluksi Sayonara-musiikkiohjelman. Loin /srv/salt/ -kansioon uuden kansion ja sinne init.sls-tiedoston.
 
 > sudo mkdir sayonara
+
 > sudoedit init.sls
 
 Tiedostoa varten löysin tämän ohjeen https://docs.saltstack.com/en/latest/ref/states/all/salt.states.pkgrepo.html
@@ -28,6 +29,7 @@ Seuraavaksi päätin asentaa Steamin
 Eli aloitin samoilla luomalla alkuun kansion ja init.sls-tiedoston
 
 > sudo mkdir steam
+
 > sudoedit init.sls
 
 Kyseistä tiedostoa varten googlailin Steamin asennusta ja löysin tämän ohjeen https://gist.github.com/garbast/ff5e36d55c11c7558a3b
