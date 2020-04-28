@@ -42,6 +42,31 @@ Ja tilan ajaminen
 
 ![steam-apply](/h4images/steam-apply.png)
 
+Jonka jälkeen testaus
+
+![steam-test](/h4images/steam-test.png)
+
+# Muut ohjelmat
+
+Asensin PHP-modulin LINKKI
+
+![php-apply](/h4images/php-apply.png)
+
+VIM-modulin LINKKI
+
+![vim-test](/h4images/vim-test.png)
+
+SSH-modulin LINKKI
+
+![ssh-apply](/h4images/ssh-apply.png)
+
+![ssh-testi](/h4images/ssh-testi.png)
+
+UFW LINKKI
+
+
+
+
 
 # Lähteet
 
