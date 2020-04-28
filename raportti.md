@@ -4,7 +4,7 @@
 
 Aloitin harjoituksen tekemällä githubiin repositorion "H4" ja kloonamalla sen koneelle. Siirryin kansioon ja aloin tekemään tätä raporttia.
 
-#Sayonara
+# Sayonara
 
 Ajattelin asentaa koneelleni aluksi Sayonara-musiikkiohjelman. Loin /srv/salt/ -kansioon uuden kansion ja sinne init.sls-tiedoston.
 
@@ -21,7 +21,7 @@ Ja ajoin tilan komennolla
 
 Moduulin tekemiseen hyödynsin tätä lähdettä (lisää linkki)
 
-#Steam
+# Steam
 
 Seuraavaksi päätin asentaa Steamin
 
